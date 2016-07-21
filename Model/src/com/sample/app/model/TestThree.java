@@ -8,4 +8,8 @@ public class TestThree {
     public static void main(String[] args) {
         TestThree testThree = new TestThree();
     }
+    
+    public String getUserName(){
+        return "Qualcomm";
+    }
 }
