@@ -12,4 +12,8 @@ public class Test {
     public String getUserName(){
         return "Qualcomm";
     }
+    
+    public void printSomthing(){
+                System.out.println("GitTest");
+        }
 }
