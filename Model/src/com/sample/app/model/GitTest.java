@@ -1,7 +1,7 @@
 package com.sample.app.model;
 
-class TestSample {
-    TestSample() {
+class GitTest {
+    GitTest() {
         super();
     }
 }
