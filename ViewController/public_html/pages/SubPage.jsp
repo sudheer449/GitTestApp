@@ -6,6 +6,9 @@
 <%@ taglib uri="http://xmlns.oracle.com/adf/faces/rich" prefix="af"%>
 <f:view>
   <af:document id="d1">
-    <af:form id="f1"></af:form>
+    <af:form id="f1">
+      <af:outputText value="outputText1" id="ot1"/>
+      <af:outputLabel value="outputLabel1" id="ol1"/>
+    </af:form>
   </af:document>
 </f:view>
