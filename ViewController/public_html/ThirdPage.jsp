@@ -8,6 +8,7 @@
   <af:document id="d1">
     <af:form id="f1">
       <af:commandButton text="commandButton 1" id="cb1"/>
+      <af:activeOutputText value="activeOutputText1" id="aot1"/>
     </af:form>
   </af:document>
 </f:view>
